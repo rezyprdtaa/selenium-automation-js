@@ -1,0 +1,19 @@
+{
+  "name": "selenium-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"tests/**/*.test.js\" --timeout 6000",
+    "api": "mocha \"api/**/*.test.js\" --timeout 6000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "chromedriver": "^146.0.4",
+    "mocha": "^11.7.5",
+    "selenium-webdriver": "^4.41.0"
+  }
+}
