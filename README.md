@@ -5,7 +5,7 @@ This project contains UI and API automation testing using Selenium (JavaScript) 
 https://docs.google.com/document/d/10TAbIOl9APyHxZKm_KlnQhxLULbOrhUF/edit?usp=drive_link&ouid=114707961001733332981&rtpof=true&sd=true
 
 ## QA responsibilities & QA be involved early in the SDLC.docx
-https://docs.google.com/document/d/1C3znC9DIOB-9XDktYQRnAXfuHWQgVVVd/edit?usp=drive_link&ouid=114707961001733332981&rtpof=true&sd=true
+https://docs.google.com/document/d/1A1Wl_92xEPj-OrPkSLYHJBX3pWjYewav/edit?usp=sharing&ouid=114707961001733332981&rtpof=true&sd=true
 
 ## Tech Stack
 * Node.js
