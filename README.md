@@ -22,7 +22,7 @@ api/     -> API automation test cases
 
 ### 1. Clone Repository
 git clone https://github.com/rezyprdtaa/selenium-automation-js.git
-cd selenium-automation-j
+cd selenium-automation-jS
 
 ### 2. Install Dependencies
 npm install
