@@ -1,5 +1,5 @@
 # QA Automation Assignment
-This project contains UI and API automation testing using Selenium (JavaScript) and Axios + Mocha.
+This project contains UI and API automation testing using Selenium (JavaScript) and Axios + Mocha
 
 ## Query Task
 https://docs.google.com/document/d/10TAbIOl9APyHxZKm_KlnQhxLULbOrhUF/edit?usp=drive_link&ouid=114707961001733332981&rtpof=true&sd=true
@@ -22,24 +22,24 @@ api/     -> API automation test cases
 
 ### 1. Clone Repository
 git clone https://github.com/rezyprdtaa/selenium-automation-js.git
-cd qa-automation
+cd selenium-automation-j
 
 ### 2. Install Dependencies
 npm install
 
-### 4. Run API Automation
+### 3. Run API Automation
 npm run api
 
-### 5. Run All Tests UI Automation
+### 4. Run All Tests UI Automation
 npm test
 
 
 ## API Configuration
-
-API testing uses Reqres public API.
+API: https://reqres.in/api/users?page=2
+API testing uses Reqres public API
 
 Note:
-Reqres does not enforce API Key authentication, so requests will still return 200 even without API Key.
+Reqres does not enforce API Key authentication, so requests will still return 200 even without API Key
 
 ### UI Automation
 * Positive test cases (valid login, session handling)
