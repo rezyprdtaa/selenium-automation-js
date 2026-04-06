@@ -1,6 +1,9 @@
 # QA Automation Assignment
 This project contains UI and API automation testing using Selenium (JavaScript) and Axios + Mocha
 
+## QA Assignment Test - MIFX
+https://docs.google.com/spreadsheets/d/1vKGDrlSXBB1V-XRuQwdhPOyXzt4cM0CKJg8_cKKEqTU/edit?usp=sharing
+
 ## Query Task
 https://docs.google.com/document/d/10TAbIOl9APyHxZKm_KlnQhxLULbOrhUF/edit?usp=drive_link&ouid=114707961001733332981&rtpof=true&sd=true
 
